@@ -14,16 +14,15 @@
 
 
 ### 💻 My favorite technologies:
-- Javascript 💖
-- ReactJS 
-- NodeJS & Express
-- HTML & CSS
+- 💖 Javascript
+- 💖 PHP
+- 💖 Python
 
 ### 👧 A little about myself: 👨‍💻
-- 🔭 I am currently working with Javascript, Node.js, Express.js, React, MongoDB. 💻.
+- 🔭 I am currently working with Javascript, Node.js, Express.js, React, MongoDB, PHP and Python. 💻.
 - 🌱 I'm going deeper into Fullstack Development🚀.
 - 🤔 Looking for help with API development
-- 👯 Looking to collaborate on any project that involves Javascript.
+- 👯 Looking to collaborate on any project that involves Javascript, PHP and Python.
 - 💬 Ask me about anything, if i know i will be happy to help 😄. If not, we can learn together🤝.
  👨‍💻.
 
